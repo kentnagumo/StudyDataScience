@@ -42,4 +42,5 @@ Googleが提供するJupyter notebookをクラウドで使用することがで�
 
 ## R言語の実行方法
 
-Google ColaboratoryではR言語も実行できる
+Google ColaboratoryではR言語も実行できる．
+後に記述します．
