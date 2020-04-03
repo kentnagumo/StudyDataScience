@@ -21,16 +21,16 @@ Googleが提供するJupyter notebookをクラウドで使用することがで�
 2. 左にあるメニューから「新規」→「その他」→「アプリを追加」をクリック
 3. 「Colaboratory」と検索して、インストールする
 
-<img src="./img/GoogleDrive.PNG" alt="GoogleDrive" style="zoom:20%;" />
+<img src="./img/GoogleDrive.PNG" alt="GoogleDrive" width="320px" />
 
 4. 「新規」 → 「その他」→「Google Colaboratory」をクリックし、Jupyter Notebookを起動
 
-<img src="./img/Jupyterの新規画面.png" alt="Jupyterの新規画面" style="zoom:20%;" />
+<img src="./img/Jupyterの新規画面.png" alt="Jupyterの新規画面" width="320px" />
 
 5. セルにprint('Hello World!')を入力
 6. 「Shift + Enter」を押し，コードが動作することを確認
 
-<img src="./img/HelloWorld.PNG" alt="HelloWorld" style="zoom:20%;" />
+<img src="./img/HelloWorld.PNG" alt="HelloWorld" width="320px" />
 
 ## Google Driveとの同期方法
 
@@ -38,7 +38,7 @@ Googleが提供するJupyter notebookをクラウドで使用することがで�
 2. 「./drive/My Drive」がマイドライブのパスになる
 3. 以下は，マイドライブに保存したa.txtをPythonで読み込んだ例
 
-<img src="./img/ファイルの読み込み.PNG" alt="ファイルの読み込み" style="zoom:20%;" />
+<img src="./img/ファイルの読み込み.PNG" alt="ファイルの読み込み" width="320px" />
 
 ## R言語の実行方法
 
